@@ -1,0 +1,7 @@
+vendor/
+test/
+.phpunit.result.cache
+composer.json
+composer.lock
+index.php
+report-tests.txt
